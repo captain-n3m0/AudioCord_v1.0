@@ -4,7 +4,7 @@
 Discord music bot using the discord.py and youtube_dl libraries to play music from YouTube.
 
 
-## Badges
+## LICENSE
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
